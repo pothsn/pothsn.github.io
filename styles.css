@@ -48,7 +48,3 @@ body {background-color: aliceblue;}
 * {
 	box-sizing: border-box;
 }
-.carousel-inner img {
-      width: 25%;
-      align-content: center;
-  }
