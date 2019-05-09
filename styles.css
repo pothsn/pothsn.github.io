@@ -1,40 +1,44 @@
 body {background-color: aliceblue;}
 
 .h1port{
-	font-family: helvetica;
+	font-family: 'Roboto Slab', serif;
 	font-size: 75px;
 	margin-top: 100px;
 }
 .h1portMain{
-	font-family: helvetica;
+	font-family: 'Roboto Slab', serif;
 	font-size: 75px;
 	margin-top: 30px;
 }
-
 .h2port{
-	font-family: Helvetica;
+	font-family: 'Roboto Slab', serif;
 	font-size: 40px
 }
 .pport{
-	font-family: helvetica;
+	font-family: 'Roboto Slab', serif;
 	font-size: 24px
 }
 .aport{
+	font-family: 'Roboto Slab', serif;
 	color: black;
 	text-decoration: none;
 	font-size: 16px;
 }
 .navport{
+	font-family: 'Roboto Slab', serif;
 	color: black;
 	text-decoration: none;
 	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+
 }
 .button {
+	font-family: 'Roboto Slab', serif;
 	padding: 16px 32px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-family: helvetica;
 	font-size: 24px;
 	margin: 4px 2px;
 	-webkit-transition-duration: 0.4s;
@@ -42,12 +46,15 @@ body {background-color: aliceblue;}
 	cursor: pointer;
 }
 .buttonmain {
+	font-family: 'Roboto Slab', serif;
+	font-family: Montserrat;
 	background-color: aliceblue;
 	color: black;
 	border: 2px solid black;
 }
 
 .buttonmain:hover {
+	font-family: 'Roboto Slab', serif;
 	background-color: black;
 	color: aliceblue;
 }
