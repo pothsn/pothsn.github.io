@@ -57,6 +57,10 @@ body {background-color: aliceblue;}
 	background-color: black;
 	color: aliceblue;
 }
-* {
+/** {
 	box-sizing: border-box;
+*/}
+
+.cardport: {
+	background-color: aliceblue;
 }
